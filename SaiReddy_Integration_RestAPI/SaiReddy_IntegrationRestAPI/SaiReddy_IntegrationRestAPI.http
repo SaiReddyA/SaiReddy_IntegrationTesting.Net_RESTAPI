@@ -1,0 +1,6 @@
+@SaiReddy_IntegrationRestAPI_HostAddress = http://localhost:5287
+
+GET {{SaiReddy_IntegrationRestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

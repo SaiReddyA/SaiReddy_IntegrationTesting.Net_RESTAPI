@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SaiReddy_Integration_RestAPI/xUnit_IntegrationTesting_SaiReddy/bin/Debug/net8.0
+/SaiReddy_Integration_RestAPI/xUnit_IntegrationTesting_SaiReddy/obj
+/SaiReddy_Integration_RestAPI/.vs/SaiReddy_Integration_RestAPI
+/SaiReddy_Integration_RestAPI/SaiReddy_IntegrationRestAPI/bin/Debug/net8.0
+/SaiReddy_Integration_RestAPI/SaiReddy_IntegrationRestAPI/obj
