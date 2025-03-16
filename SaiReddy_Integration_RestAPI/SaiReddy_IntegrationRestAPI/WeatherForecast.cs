@@ -11,6 +11,4 @@ namespace SaiReddy_IntegrationRestAPI
         public string? Summary { get; set; }
         
     }
-
-    public partial class ProgramStart { }
 }
