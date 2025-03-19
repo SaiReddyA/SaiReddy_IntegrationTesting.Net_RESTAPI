@@ -1,4 +1,9 @@
 global using Microsoft.AspNetCore.Mvc;
+global using Dapper;
+global using System.Data;
+global using System.Data.SqlClient;
+global using SaiReddy_IntegrationRestAPI.Repo;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
